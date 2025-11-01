@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Starter",
+    "price": "$9.99/mo",
+    "amount": 999,
+    "isRecommended": false,
+    "buttonColor": "#757575",
+    "borderColor": "#9E9E9E",
+    "features": {
+      "Builder Access": [
+        "Access to Otall AI Builder",
+        "1 Active Project"
+      ],
+      "AI Abilities": [
+        "Basic AI tools",
+        "Limited daily credits"
+      ],
+      "Extras": [
+        "Community support"
+      ]
+    }
+  },
+  {
+    "title": "Pro",
+    "price": "$19.99/mo",
+    "amount": 1999,
+    "isRecommended": true,
+    "buttonColor": "#2196F3",
+    "borderColor": "#9E9E9E",
+    "features": {
+      "Builder Access": [
+        "Up to 10 projects",
+        "Team collaboration (3 users)"
+      ],
+      "AI Abilities": [
+        "Access to advanced AI models",
+        "Increased usage credits"
+      ],
+      "Integrations": [
+        "Google Sheets API",
+        "Firebase Realtime updates"
+      ],
+      "Extras": [
+        "Priority email support"
+      ]
+    }
+  },
+  {
+    "title": "Infinity",
+    "price": "$29.99/mo",
+    "amount": 2999,
+    "isRecommended": false,
+    "buttonColor": "#512DA8",
+    "borderColor": "#311B92",
+    "features": {
+      "Builder Access": [
+        "Unlimited projects",
+        "Unlimited team members"
+      ],
+      "AI Abilities": [
+        "All Pro AI features",
+        "Auto-prompt generation"
+      ],
+      "Integrations": [
+        "Enterprise Google API sync",
+        "Realtime multi-device dashboard"
+      ],
+      "Extras": [
+        "24/7 premium support",
+        "Custom AI assistant branding"
+      ]
+    }
+  }
+]

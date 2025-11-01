@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "title": "Social Handles",
+      "sections": [
+        {
+          "header": "Official Handle",
+          "items": [
+            {"text": "YouTube — RIXX Corporation", "url": "https://www.youtube.com/@RixxCorporation"},
+            {"text": "Instagram — RIXX Corporation", "url": "https://www.instagram.com/rixxcorporation"},
+            {"text": "LinkedIn — RIXX Corporation", "url": "https://www.linkedin.com/in/rixx-corporation"},
+            {"text": "Twitter/X — RIXX Corporation", "url": "https://x.com/RIXXCorp"},
+            {"text": "GitHub — RIXX Corporation", "url": "https://github.com/rixxcorporation"}
+          ]
+        },
+        {
+          "header": "Social Handle",
+          "items": [
+            {"text": "YouTube — The Power Ledger", "url": "https://www.youtube.com/@RixxCorporation.social"},
+            {"text": "Instagram — rixx_verse7", "url": "https://www.instagram.com/rixx_verse7"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Emails",
+      "sections": [
+        {
+          "header": "For Web",
+          "items": [
+            {"text": "Primary: team@rixxcorp.xyz"},
+            {"text": "Special: admin@rixxcorp.xyz"}
+          ]
+        },
+        {
+          "header": "For App",
+          "items": [
+            {"text": "Primary: team@rixxcorporation.xyz"},
+            {"text": "Special: admin@rixxcorporation.xyz"}
+          ]
+        },
+        {
+          "header": "Universal",
+          "items": [
+            {"text": "Official: rixxcorporation@gmail.com"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bots",
+      "sections": [
+        {
+          "header": "Telegram",
+          "items": [
+            {"text": "@RIXXCorporation_bot", "url": "https://t.me/RIXXCorporation_bot"}
+          ]
+        },
+        {
+          "header": "Whatsapp",
+          "items": [
+            {"text": "No official bot listed."}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Apps",
+      "sections": [
+        {
+          "items": [
+            {"text": "RIXX Official - First and Only Official App.", "url": "#"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Websites",
+      "sections": [
+        {
+          "items": [
+            {"text": "www.rixxcorp.xyz - Official Website", "url": "https://rixxcorp.xyz"},
+            {"text": "www.rixxcorporation.xyz", "url": "https://rixxcorporation.xyz"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contact",
+      "sections": [
+        {
+          "items": [
+            {"text": "Phone: +91-8004573290 (Official)"},
+            {"text": "Phone: +91-8005044676 (Customercare)"},
+            {"text": "Discord: rixxcorporation", "url": "https://discord.gg/UrQfAqgr"},
+            {"text": "Telegram: @rixxcorporation", "url": "https://t.me/rixxcorporation"},
+            {"text": "WhatsApp: RIXX Corporation", "url": "https://wa.me/+918004573290"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "sections": [
+        {
+          "items": [
+            {"text": "App Development"},
+            {"text": "Website Development"},
+            {"text": "App Publishing and Testing"},
+            {"text": "All Business Needs"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Startups",
+      "sections": [
+        {
+          "header": "Parent",
+          "items": [{"text": "RIXX Corporation — First Official Parent Startup"}]
+        },
+        {
+          "header": "Daughter",
+          "items": [{"text": "No daughter startups listed."}]
+        }
+      ]
+    }
+  ]
+}

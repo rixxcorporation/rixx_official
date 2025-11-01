@@ -46,6 +46,31 @@
     }
   },
   {
+    "title": "Prime",
+    "price": "$24.99/mo",
+    "amount": 2499,
+    "isRecommended": false,
+    "buttonColor": "#FF9800",
+    "borderColor": "#9E9E9E",
+    "features": {
+      "Builder Access": [
+        "Up to 15 projects",
+        "Team collaboration (10 users)"
+      ],
+      "AI Abilities": [
+        "Access to all advanced AI models",
+        "High usage credits"
+      ],
+      "Integrations": [
+        "All Pro integrations",
+        "Advanced API access"
+      ],
+      "Extras": [
+        "Priority chat & email support"
+      ]
+    }
+  },
+  {
     "title": "Infinity",
     "price": "$29.99/mo",
     "amount": 2999,

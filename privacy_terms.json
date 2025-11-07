@@ -1,0 +1,105 @@
+{
+  "effective_date": "07/06/2025",
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "sections": [
+      {
+        "header": "Scope",
+        "content": "This Privacy Policy applies to both the Rixx Corporation website and the 'Rixx Official' mobile application available on the Google Play Store."
+      },
+      {
+        "header": "1. Information We Collect",
+        "content": "We may collect the following types of personal information: name, email address, phone number (via contact forms or newsletter sign-ups), and technical/browser/device information (via tools such as Google Analytics or Firebase)."
+      },
+      {
+        "header": "2. How We Use Your Information",
+        "content": "Your data is used to: respond to inquiries, personalize and improve user experience, send newsletters (if opted-in), and analyze site or app usage trends."
+      },
+      {
+        "header": "3. Cookies & Tracking",
+        "content": "We use cookies and tracking technologies to improve functionality and gather usage data. Users may disable cookies through their browser settings."
+      },
+      {
+        "header": "4. Permissions Used in App",
+        "content": "The mobile app may request access to storage, internet, or device identifiers strictly for functionality. All permissions are declared within the app and required only for operational purposes. You will be prompted for consent where needed."
+      },
+      {
+        "header": "5. Third-Party Services",
+        "content": "We integrate with services like Google Analytics, Firebase, and Google Sheets for analytics, storage, and communication. These providers operate under their own privacy terms, which users are encouraged to review."
+      },
+      {
+        "header": "6. Data Security",
+        "content": "We implement reasonable technical and organizational measures to safeguard personal information. While we strive to protect data, no method is 100% secure. We do not sell or misuse your personal information."
+      },
+      {
+        "header": "7. Data Retention",
+        "content": "Your personal information is retained only as long as necessary for operational, legal, or compliance purposes."
+      },
+      {
+        "header": "8. Children’s Privacy",
+        "content": "Our services are not intended for users under the age of 13. We do not knowingly collect data from minors. If such data is discovered, it will be deleted immediately upon request."
+      },
+      {
+        "header": "9. User Rights",
+        "content": "Users have the right to access, update, or request deletion of their data. Users in the EU and California may have additional rights under GDPR and CCPA."
+      },
+      {
+        "header": "10. Consent",
+        "content": "By using our website or app, you consent to the data practices described in this policy."
+      },
+      {
+        "header": "11. Account Information",
+        "content": "We allow users to create an account using their email and a password. This information is used solely for authentication and providing access to app features. We do not share account credentials with any third parties."
+      },
+      {
+        "header": "12. Data and Account Deletion",
+        "content": "If you wish to request the deletion of your account or any personal data collected by our app or website, please submit your request using our secure data deletion form available at https://rixxcorp.xyz/delete-account.html. We will review and process your deletion request within 7 business days. Please ensure that the email you submit in the form matches the one associated with your account."
+      },
+      {
+        "header": "Contact for Privacy Queries",
+        "content": "📩 Email us: rixxcorporation@gmail.com"
+      }
+    ]
+  },
+  "terms_conditions": {
+    "title": "Terms and Conditions",
+    "sections": [
+      {
+        "header": "1. Acceptance of Terms",
+        "content": "By using our website or installing and using the Rixx Official app, you agree to these Terms and Conditions. If you do not agree, do not use our services."
+      },
+      {
+        "header": "2. License to Use",
+        "content": "We grant you a limited, non-exclusive, non-transferable license to use our services. You may not use the services for any unlawful purpose."
+      },
+      {
+        "header": "3. Restrictions",
+        "content": "You may not copy, modify, distribute, reverse-engineer, or exploit any content, data, or code from our website or app without written consent."
+      },
+      {
+        "header": "4. Intellectual Property",
+        "content": "All trademarks, logos, text, graphics, and other content are the property of Rixx Corporation unless otherwise stated. Unauthorized use is strictly prohibited."
+      },
+      {
+        "header": "5. Limitation of Liability",
+        "content": "We are not liable for any direct, indirect, or incidental damages arising from your use of our services."
+      },
+      {
+        "header": "6. External Links",
+        "content": "We may include links to third-party websites or services. We are not responsible for their content, terms, or privacy policies."
+      },
+      {
+        "header": "7. Termination",
+        "content": "We reserve the right to suspend or terminate user access to our app or website at any time without notice for violating these terms."
+      },
+      {
+        "header": "8. Changes to These Terms",
+        "content": "We may revise these terms at any time. It is your responsibility to review them periodically. Continued use signifies acceptance of updated terms."
+      }
+    ]
+  },
+  "contact": {
+    "email": "rixxcorporation@gmail.com",
+    "website": "https://rixxcorp.xyz"
+  }
+}

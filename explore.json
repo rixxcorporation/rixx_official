@@ -2,116 +2,85 @@
   "explore": [
     {
       "service": "Website Development",
-      "description": "Ready-made websites for businesses, creators and stores.",
+      "description": "Premium websites for businesses, creators and startups.",
       "examples": [
         {
-          "name": "Business Website",
-          "thumbnail": "https://cdn.example.com/templates/business.png",
+          "name": "Business Website Template",
+          "subtitle": "Responsive modern business layout",
+          "thumbnail": "https://cdn.rixxcorp.co.in/business/thumb.jpg",
+
+          "video": "https://cdn.rixxcorp.co.in/business/demo.mp4",
+
+          "gallery": [
+            "https://cdn.rixxcorp.co.in/business/1.jpg",
+            "https://cdn.rixxcorp.co.in/business/2.jpg",
+            "https://cdn.rixxcorp.co.in/business/3.jpg"
+          ],
+
+          "price": "₹4,999 – ₹12,999",
+          "delivery": "3–5 Days",
+
+          "tags": ["Responsive", "SEO Optimized", "Modern UI"],
+
+          "features": [
+            "Fast loading structure",
+            "SEO optimised design",
+            "Responsive on mobile & desktop",
+            "Customizable pages"
+          ],
+
+          "description": "A clean and modern website template optimized for small businesses, agencies, and professionals.",
+
+          "specs": {
+            "Technology": "HTML, CSS, JS",
+            "Pages Included": "Home, About, Services, Contact",
+            "Hosting Required": "Yes"
+          },
+
           "demo_url": "https://demo1.rixxcorp.co.in",
-          "tags": ["HTML", "Responsive", "Modern"]
-        },
-        {
-          "name": "Portfolio Website",
-          "thumbnail": "https://cdn.example.com/templates/portfolio.png",
-          "demo_url": "https://demo2.rixxcorp.co.in",
-          "tags": ["Creative", "Fast", "Minimal"]
-        },
-        {
-          "name": "Blog / News Website",
-          "thumbnail": "https://cdn.example.com/templates/blog.png",
-          "demo_url": "https://demo3.rixxcorp.co.in",
-          "tags": ["Dynamic", "SEO", "CMS"]
-        },
-        {
-          "name": "Restaurant Website",
-          "thumbnail": "https://cdn.example.com/templates/restaurant.png",
-          "demo_url": "https://demo4.rixxcorp.co.in",
-          "tags": ["Food", "Menu", "Booking"]
+          "order_link": "https://wa.me/919999999999?text=I%20want%20to%20order%20Business%20Website%20Template"
         }
       ]
     },
 
     {
       "service": "App Development",
-      "description": "High-performance mobile apps with dashboards.",
+      "description": "Flutter apps with dashboards and backend support.",
       "examples": [
         {
           "name": "School Management App",
-          "thumbnail": "https://cdn.example.com/apps/school.jpg",
-          "demo_apk": "https://cdn.example.com/apk/school.apk",
-          "tags": ["Flutter", "Admin Panel", "Fast"]
-        },
-        {
-          "name": "Shop Billing App",
-          "thumbnail": "https://cdn.example.com/apps/billing.jpg",
-          "demo_apk": "https://cdn.example.com/apk/billing.apk",
-          "tags": ["POS", "Inventory", "Billing"]
-        },
-        {
-          "name": "Delivery App",
-          "thumbnail": "https://cdn.example.com/apps/delivery.jpg",
-          "demo_apk": "https://cdn.example.com/apk/delivery.apk",
-          "tags": ["Tracking", "Orders", "Maps"]
-        },
-        {
-          "name": "Social Feed App",
-          "thumbnail": "https://cdn.example.com/apps/social.jpg",
-          "demo_apk": "https://cdn.example.com/apk/social.apk",
-          "tags": ["Feed", "Chat", "Profile"]
-        }
-      ]
-    },
+          "subtitle": "Students, staff, fees, marks all in one app",
+          "thumbnail": "https://cdn.rixxcorp.co.in/apps/school/thumb.jpg",
 
-    {
-      "service": "Automation Tools",
-      "description": "Plug-and-play tools to automate your business workflow.",
-      "examples": [
-        {
-          "name": "Blog CMS",
-          "icon": "https://cdn.example.com/icons/blogcms.json",
-          "details": "Manage posts, categories, writers and analytics."
-        },
-        {
-          "name": "Notification Engine",
-          "icon": "https://cdn.example.com/icons/notify.json",
-          "details": "Push, offline and schedule notifications."
-        },
-        {
-          "name": "Promo Code Validator",
-          "icon": "https://cdn.example.com/icons/promo.json",
-          "details": "Google Sheets powered promo code API."
-        },
-        {
-          "name": "Subscription System",
-          "icon": "https://cdn.example.com/icons/subscription.json",
-          "details": "Free, Starter, Pro, Infinity integration."
-        },
-        {
-          "name": "Sheets Backend API",
-          "icon": "https://cdn.example.com/icons/sheets.json",
-          "details": "Dynamic API from Google Sheets."
-        }
-      ]
-    },
+          "video": "https://cdn.rixxcorp.co.in/apps/school/demo.mp4",
 
-    {
-      "service": "Branding & Creative",
-      "description": "End-to-end branding services for your business.",
-      "examples": [
-        {
-          "name": "Logo Design",
-          "thumbnail": "https://cdn.example.com/branding/logo.jpg",
-          "tags": ["Minimal", "Brand Identity"]
-        },
-        {
-          "name": "Business Cards",
-          "thumbnail": "https://cdn.example.com/branding/cards.jpg",
-          "tags": ["Print", "3D Mockups"]
-        },
-        {
-          "name": "Poster / Social Media",
-          "thumbnail": "https://cdn.example.com/branding/social.jpg",
-          "tags": ["Instagram", "YouTube"]
+          "gallery": [
+            "https://cdn.rixxcorp.co.in/apps/school/1.jpg",
+            "https://cdn.rixxcorp.co.in/apps/school/2.jpg"
+          ],
+
+          "price": "₹8,999 – ₹35,000",
+          "delivery": "5–14 Days",
+
+          "tags": ["Flutter", "Dashboard", "Multi-user"],
+
+          "features": [
+            "Student attendance",
+            "Fees tracking",
+            "Admin dashboard",
+            "Push notifications"
+          ],
+
+          "description": "A complete school management system built in Flutter with clean UI.",
+
+          "specs": {
+            "Technology": "Flutter",
+            "Backend": "Firebase",
+            "Admin Panel": "Yes"
+          },
+
+          "demo_url": "https://schooldemo.rixxcorp.co.in",
+          "order_link": "https://wa.me/919999999999?text=I%20want%20the%20School%20Management%20App"
         }
       ]
     }

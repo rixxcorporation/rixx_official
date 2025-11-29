@@ -1,0 +1,119 @@
+{
+  "explore": [
+    {
+      "service": "Website Development",
+      "description": "Ready-made websites for businesses, creators and stores.",
+      "examples": [
+        {
+          "name": "Business Website",
+          "thumbnail": "https://cdn.example.com/templates/business.png",
+          "demo_url": "https://demo1.rixxcorp.co.in",
+          "tags": ["HTML", "Responsive", "Modern"]
+        },
+        {
+          "name": "Portfolio Website",
+          "thumbnail": "https://cdn.example.com/templates/portfolio.png",
+          "demo_url": "https://demo2.rixxcorp.co.in",
+          "tags": ["Creative", "Fast", "Minimal"]
+        },
+        {
+          "name": "Blog / News Website",
+          "thumbnail": "https://cdn.example.com/templates/blog.png",
+          "demo_url": "https://demo3.rixxcorp.co.in",
+          "tags": ["Dynamic", "SEO", "CMS"]
+        },
+        {
+          "name": "Restaurant Website",
+          "thumbnail": "https://cdn.example.com/templates/restaurant.png",
+          "demo_url": "https://demo4.rixxcorp.co.in",
+          "tags": ["Food", "Menu", "Booking"]
+        }
+      ]
+    },
+
+    {
+      "service": "App Development",
+      "description": "High-performance mobile apps with dashboards.",
+      "examples": [
+        {
+          "name": "School Management App",
+          "thumbnail": "https://cdn.example.com/apps/school.jpg",
+          "demo_apk": "https://cdn.example.com/apk/school.apk",
+          "tags": ["Flutter", "Admin Panel", "Fast"]
+        },
+        {
+          "name": "Shop Billing App",
+          "thumbnail": "https://cdn.example.com/apps/billing.jpg",
+          "demo_apk": "https://cdn.example.com/apk/billing.apk",
+          "tags": ["POS", "Inventory", "Billing"]
+        },
+        {
+          "name": "Delivery App",
+          "thumbnail": "https://cdn.example.com/apps/delivery.jpg",
+          "demo_apk": "https://cdn.example.com/apk/delivery.apk",
+          "tags": ["Tracking", "Orders", "Maps"]
+        },
+        {
+          "name": "Social Feed App",
+          "thumbnail": "https://cdn.example.com/apps/social.jpg",
+          "demo_apk": "https://cdn.example.com/apk/social.apk",
+          "tags": ["Feed", "Chat", "Profile"]
+        }
+      ]
+    },
+
+    {
+      "service": "Automation Tools",
+      "description": "Plug-and-play tools to automate your business workflow.",
+      "examples": [
+        {
+          "name": "Blog CMS",
+          "icon": "https://cdn.example.com/icons/blogcms.json",
+          "details": "Manage posts, categories, writers and analytics."
+        },
+        {
+          "name": "Notification Engine",
+          "icon": "https://cdn.example.com/icons/notify.json",
+          "details": "Push, offline and schedule notifications."
+        },
+        {
+          "name": "Promo Code Validator",
+          "icon": "https://cdn.example.com/icons/promo.json",
+          "details": "Google Sheets powered promo code API."
+        },
+        {
+          "name": "Subscription System",
+          "icon": "https://cdn.example.com/icons/subscription.json",
+          "details": "Free, Starter, Pro, Infinity integration."
+        },
+        {
+          "name": "Sheets Backend API",
+          "icon": "https://cdn.example.com/icons/sheets.json",
+          "details": "Dynamic API from Google Sheets."
+        }
+      ]
+    },
+
+    {
+      "service": "Branding & Creative",
+      "description": "End-to-end branding services for your business.",
+      "examples": [
+        {
+          "name": "Logo Design",
+          "thumbnail": "https://cdn.example.com/branding/logo.jpg",
+          "tags": ["Minimal", "Brand Identity"]
+        },
+        {
+          "name": "Business Cards",
+          "thumbnail": "https://cdn.example.com/branding/cards.jpg",
+          "tags": ["Print", "3D Mockups"]
+        },
+        {
+          "name": "Poster / Social Media",
+          "thumbnail": "https://cdn.example.com/branding/social.jpg",
+          "tags": ["Instagram", "YouTube"]
+        }
+      ]
+    }
+  ]
+}

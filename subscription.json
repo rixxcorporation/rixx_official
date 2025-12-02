@@ -22,7 +22,7 @@
   },
   {
     "title": "Pro",
-    "price": "₹999 PER MONTH",
+    "price": "₹999",
     "amount": 999,
     "isRecommended": true,
     "buttonColor": "#2196F3",

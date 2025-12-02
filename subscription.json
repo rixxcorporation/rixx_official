@@ -1,8 +1,8 @@
 [
   {
     "title": "Starter",
-    "price": "$9.99/mo",
-    "amount": 999,
+    "price": "₹499",
+    "amount": 499,
     "isRecommended": false,
     "buttonColor": "#757575",
     "borderColor": "#9E9E9E",
@@ -22,8 +22,8 @@
   },
   {
     "title": "Pro",
-    "price": "$19.99/mo",
-    "amount": 1999,
+    "price": "₹999",
+    "amount": 999,
     "isRecommended": true,
     "buttonColor": "#2196F3",
     "borderColor": "#9E9E9E",
@@ -47,8 +47,8 @@
   },
   {
     "title": "Prime",
-    "price": "$24.99/mo",
-    "amount": 2499,
+    "price": "₹1499/mo",
+    "amount": 1499,
     "isRecommended": false,
     "buttonColor": "#FF9800",
     "borderColor": "#9E9E9E",
@@ -72,7 +72,7 @@
   },
   {
     "title": "Infinity",
-    "price": "$29.99/mo",
+    "price": "₹2999/mo",
     "amount": 2999,
     "isRecommended": false,
     "buttonColor": "#512DA8",

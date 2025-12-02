@@ -1,7 +1,7 @@
 [
   {
     "title": "Starter",
-    "price": "₹499",
+    "price": "₹499/mo",
     "amount": 499,
     "isRecommended": false,
     "buttonColor": "#757575",
@@ -22,7 +22,7 @@
   },
   {
     "title": "Pro",
-    "price": "₹999",
+    "price": "$999/mo",
     "amount": 999,
     "isRecommended": true,
     "buttonColor": "#2196F3",

@@ -47,7 +47,7 @@
   },
   {
     "title": "Prime",
-    "price": "₹1499/mo",
+    "price": "₹1499",
     "amount": 1499,
     "isRecommended": false,
     "buttonColor": "#FF9800",
@@ -72,7 +72,7 @@
   },
   {
     "title": "Infinity",
-    "price": "₹2999/mo",
+    "price": "₹2999",
     "amount": 2999,
     "isRecommended": false,
     "buttonColor": "#512DA8",

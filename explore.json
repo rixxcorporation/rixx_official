@@ -5,6 +5,8 @@
       "description": "Premium websites for businesses, creators and startups.",
       "examples": [
         {
+          "id": "WEB001",
+          "category": "website",
           "name": "Business Website Template",
           "subtitle": "Responsive modern business layout",
           "thumbnail": "https://rixxcorp.co.in/webdesign.png",
@@ -38,7 +40,7 @@
           },
 
           "demo_url": "https://demo1.rixxcorp.co.in",
-          "order_link": "https://wa.me/919999999999?text=I%20want%20to%20order%20Business%20Website%20Template"
+          "order_page": "/order?product=WEB001"
         }
       ]
     },
@@ -48,6 +50,8 @@
       "description": "Flutter apps with dashboards and backend support.",
       "examples": [
         {
+          "id": "APP001",
+          "category": "app",
           "name": "School Management App",
           "subtitle": "Students, staff, fees, marks all in one app",
           "thumbnail": "https://rixxcorp.co.in/appdesign.png",
@@ -80,7 +84,7 @@
           },
 
           "demo_url": "https://schooldemo.rixxcorp.co.in",
-          "order_link": "https://wa.me/919999999999?text=I%20want%20the%20School%20Management%20App"
+          "order_page": "/order?product=APP001"
         }
       ]
     }

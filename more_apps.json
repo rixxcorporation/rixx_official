@@ -1,1 +1,27 @@
-
+[
+  {
+    "name": "Rixx Notes",
+    "short_description": "Secure and fast note-taking app.",
+    "details": "Rixx Notes is designed for speed and security. It offers cloud sync, local encryption, and a beautiful dark mode interface.",
+    "icon_url": "https://example.com/icons/rixx_notes.png",
+    "link": "https://play.google.com/store/apps/details?id=com.rixx.notes",
+    "features": [
+      "Cloud Synchronization",
+      "AES-256 Encryption",
+      "Dark Mode",
+      "Widget Support"
+    ]
+  },
+  {
+    "name": "Rixx Cleaner",
+    "short_description": "Optimize your device storage.",
+    "details": "A powerful tool to clean junk files, boost RAM, and manage battery life effectively.",
+    "icon_url": "https://example.com/icons/rixx_cleaner.png",
+    "link": "https://play.google.com/store/apps/details?id=com.rixx.cleaner",
+    "features": [
+      "Junk Cleaner",
+      "Battery Saver",
+      "CPU Cooler"
+    ]
+  }
+]

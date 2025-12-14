@@ -1,1 +1,38 @@
-
+[
+  {
+    "title": "Flutter",
+    "subtitle": "55 Videos",
+    "icon_type": "flutter",
+    "color": "#2196F3"
+  },
+  {
+    "title": "React Native",
+    "subtitle": "55 Videos",
+    "icon_type": "react",
+    "color": "#00BCD4"
+  },
+  {
+    "title": "Python",
+    "subtitle": "45 Videos",
+    "icon_type": "python",
+    "color": "#448AFF"
+  },
+  {
+    "title": "C#",
+    "subtitle": "30 Videos",
+    "icon_type": "c_sharp",
+    "color": "#9C27B0"
+  },
+  {
+    "title": "Java",
+    "subtitle": "60 Videos",
+    "icon_type": "java",
+    "color": "#F44336"
+  },
+  {
+    "title": "Go",
+    "subtitle": "25 Videos",
+    "icon_type": "go",
+    "color": "#009688"
+  }
+]

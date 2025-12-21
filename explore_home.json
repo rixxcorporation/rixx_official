@@ -1,37 +1,37 @@
 [
   {
-    "title": "Flutter",
-    "subtitle": "55 Videos",
+    "title": "App Development",
+    "subtitle": "Free App Release",
     "icon_type": "flutter",
     "color": "#2196F3"
   },
   {
-    "title": "React Native",
-    "subtitle": "55 Videos",
+    "title": "Web Development",
+    "subtitle": "Free domain & Hosting",
     "icon_type": "react",
     "color": "#00BCD4"
   },
   {
-    "title": "Python",
-    "subtitle": "45 Videos",
+    "title": "Video Editing",
+    "subtitle": "All type Videos",
     "icon_type": "python",
     "color": "#448AFF"
   },
   {
-    "title": "C#",
-    "subtitle": "30 Videos",
+    "title": "Brand Identity",
+    "subtitle": "Logo, card, etc",
     "icon_type": "c_sharp",
     "color": "#9C27B0"
   },
   {
-    "title": "Java",
-    "subtitle": "60 Videos",
+    "title": "Social Media",
+    "subtitle": "Full management",
     "icon_type": "java",
     "color": "#F44336"
   },
   {
-    "title": "Go",
-    "subtitle": "25 Videos",
+    "title": "Bots,AI & Automation",
+    "subtitle": "Full CRM 360",
     "icon_type": "go",
     "color": "#009688"
   }

@@ -1,90 +1,674 @@
 {
   "explore": [
     {
-      "service": "Website Development",
-      "description": "Premium websites for businesses, creators and startups.",
+      "service": "Web Development",
+      "description": "High-performance websites built for conversion and scalability.",
       "examples": [
         {
           "id": "WEB001",
           "category": "website",
+          "name": "One-Page Portfolio",
+          "subtitle": "Personal branding for professionals",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/portfolio.png",
+          "video": "https://youtu.be/dummy_portfolio",
+          "gallery": [
+            "https://rixxcorp.co.in/web/port1.jpg",
+            "https://rixxcorp.co.in/web/port2.jpg",
+            "https://rixxcorp.co.in/web/port3.jpg"
+          ],
+          "price": "₹499 – ₹2,499",
+          "delivery": "1–2 Days",
+          "tags": ["Personal", "Fast", "CV"],
+          "features": [
+            "Bio section",
+            "Contact form",
+            "Social media links",
+            "Mobile responsive"
+          ],
+          "description": "A sleek, single-page website perfect for freelancers, students, and professionals to showcase their work.",
+          "specs": {
+            "Technology": "HTML5, CSS3",
+            "Pages Included": "1 (Single Scroll)",
+            "Hosting Required": "Yes"
+          },
+          "demo_url": "https://portfolio.rixxcorp.co.in",
+          "order_page": "/order?product=WEB001"
+        },
+        {
+          "id": "WEB002",
+          "category": "website",
           "name": "Business Website Template",
           "subtitle": "Responsive modern business layout",
           "thumbnail": "https://rixxcorp.co.in/webdesign.png",
-
           "video": "https://youtu.be/GWvvmPpub_w",
-
           "gallery": [
             "https://rixxcorp.co.in/buisnessneed.png",
             "https://cdn.rixxcorp.co.in/business/2.jpg",
             "https://cdn.rixxcorp.co.in/business/3.jpg"
           ],
-
           "price": "₹4,999 – ₹12,999",
           "delivery": "3–5 Days",
-
-          "tags": ["Responsive", "SEO Optimized", "Modern UI"],
-
+          "tags": ["Corporate", "SEO Optimized", "Modern UI"],
           "features": [
             "Fast loading structure",
             "SEO optimised design",
             "Responsive on mobile & desktop",
-            "Customizable pages"
+            "Google Maps integration"
           ],
-
           "description": "A clean and modern website template optimized for small businesses, agencies, and professionals.",
-
           "specs": {
-            "Technology": "HTML, CSS, JS",
+            "Technology": "HTML, CSS, JS / WordPress",
             "Pages Included": "Home, About, Services, Contact",
             "Hosting Required": "Yes"
           },
-
           "demo_url": "https://demo1.rixxcorp.co.in",
-          "order_page": "/order?product=WEB001"
+          "order_page": "/order?product=WEB002"
+        },
+        {
+          "id": "WEB003",
+          "category": "website",
+          "name": "E-Commerce Store",
+          "subtitle": "Sell products online easily",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/ecom.png",
+          "video": "https://youtu.be/dummy_ecom",
+          "gallery": [
+            "https://rixxcorp.co.in/web/ecom1.jpg",
+            "https://rixxcorp.co.in/web/ecom2.jpg",
+            "https://rixxcorp.co.in/web/ecom3.jpg"
+          ],
+          "price": "₹14,999 – ₹45,000",
+          "delivery": "7–14 Days",
+          "tags": ["Online Store", "Payment Gateway", "Admin Panel"],
+          "features": [
+            "Product catalog",
+            "Shopping cart",
+            "Payment gateway integration",
+            "Order management system"
+          ],
+          "description": "Full-featured online store with inventory management and secure checkout.",
+          "specs": {
+            "Technology": "WooCommerce / Shopify / Custom",
+            "Pages Included": "Shop, Product, Cart, Checkout",
+            "Hosting Required": "Yes"
+          },
+          "demo_url": "https://shop.rixxcorp.co.in",
+          "order_page": "/order?product=WEB003"
         }
       ]
     },
-
     {
       "service": "App Development",
-      "description": "Flutter apps with dashboards and backend support.",
+      "description": "Modern Android, iOS and web apps tailored for business workflows.",
       "examples": [
         {
           "id": "APP001",
           "category": "app",
+          "name": "WebView Converter",
+          "subtitle": "Convert website to Android App",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/webview.png",
+          "video": "https://youtu.be/dummy_webview",
+          "gallery": [
+            "https://rixxcorp.co.in/app/web1.jpg",
+            "https://rixxcorp.co.in/app/web2.jpg",
+            "https://rixxcorp.co.in/app/web3.jpg"
+          ],
+          "price": "₹1,499 – ₹2,999",
+          "delivery": "2 Days",
+          "tags": ["Utility", "Android", "Fast"],
+          "features": [
+            "Splash screen",
+            "Offline detection",
+            "Pull to refresh",
+            "Push notifications (Basic)"
+          ],
+          "description": "Turn your existing responsive website into a published Android application.",
+          "specs": {
+            "Technology": "Java / Flutter",
+            "Backend": "None",
+            "Admin Panel": "No"
+          },
+          "demo_url": "https://play.google.com/store/apps/details?id=demo",
+          "order_page": "/order?product=APP001"
+        },
+        {
+          "id": "APP002",
+          "category": "app",
           "name": "School Management App",
           "subtitle": "Students, staff, fees, marks all in one app",
           "thumbnail": "https://rixxcorp.co.in/appdesign.png",
-
           "video": "https://cdn.rixxcorp.co.in/apps/school/demo.mp4",
-
           "gallery": [
             "https://cdn.rixxcorp.co.in/apps/school/1.jpg",
-            "https://cdn.rixxcorp.co.in/apps/school/2.jpg"
+            "https://cdn.rixxcorp.co.in/apps/school/2.jpg",
+            "https://cdn.rixxcorp.co.in/apps/school/3.jpg"
           ],
-
           "price": "₹8,999 – ₹35,000",
           "delivery": "5–14 Days",
-
           "tags": ["Flutter", "Dashboard", "Multi-user"],
-
           "features": [
             "Student attendance",
             "Fees tracking",
             "Admin dashboard",
             "Push notifications"
           ],
-
           "description": "A complete school management system built in Flutter with clean UI.",
-
           "specs": {
             "Technology": "Flutter",
             "Backend": "Firebase",
             "Admin Panel": "Yes"
           },
-
           "demo_url": "https://schooldemo.rixxcorp.co.in",
-          "order_page": "/order?product=APP001"
+          "order_page": "/order?product=APP002"
+        },
+        {
+          "id": "APP003",
+          "category": "app",
+          "name": "Food Delivery App",
+          "subtitle": "Order and delivery tracking system",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/food.png",
+          "video": "https://youtu.be/dummy_food",
+          "gallery": [
+            "https://rixxcorp.co.in/app/food1.jpg",
+            "https://rixxcorp.co.in/app/food2.jpg",
+            "https://rixxcorp.co.in/app/food3.jpg"
+          ],
+          "price": "₹25,000 – ₹60,000",
+          "delivery": "15–30 Days",
+          "tags": ["GPS", "Real-time", "Complex"],
+          "features": [
+            "Live tracking",
+            "Vendor dashboard",
+            "Driver app",
+            "Secure payments"
+          ],
+          "description": "Complete solution for food delivery or courier services with live GPS tracking.",
+          "specs": {
+            "Technology": "Flutter / React Native",
+            "Backend": "Node.js / Firebase",
+            "Admin Panel": "Yes (Super Admin + Store)"
+          },
+          "demo_url": "https://fooddemo.rixxcorp.co.in",
+          "order_page": "/order?product=APP003"
+        }
+      ]
+    },
+    {
+      "service": "Software Solutions",
+      "description": "End-to-end software engineering built to deliver scalable, secure systems.",
+      "examples": [
+        {
+          "id": "SOFT001",
+          "category": "software",
+          "name": "Billing Software Lite",
+          "subtitle": "Simple invoicing for shops",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/billing.png",
+          "video": "https://youtu.be/dummy_billing",
+          "gallery": [
+            "https://rixxcorp.co.in/soft/bill1.jpg",
+            "https://rixxcorp.co.in/soft/bill2.jpg",
+            "https://rixxcorp.co.in/soft/bill3.jpg"
+          ],
+          "price": "₹499 – ₹1,500",
+          "delivery": "Instant Download",
+          "tags": ["Desktop", "Offline", "Accounting"],
+          "features": [
+            "GST calculation",
+            "Thermal print support",
+            "Daily sales report",
+            "Stock tracking"
+          ],
+          "description": "Lightweight offline billing software for retail shops and counters.",
+          "specs": {
+            "Technology": ".NET / Python",
+            "OS": "Windows 10/11",
+            "License": "Lifetime"
+          },
+          "demo_url": "https://billing.rixxcorp.co.in",
+          "order_page": "/order?product=SOFT001"
+        },
+        {
+          "id": "SOFT002",
+          "category": "software",
+          "name": "Inventory Management System",
+          "subtitle": "Track stock across warehouses",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/inventory.png",
+          "video": "https://youtu.be/dummy_ims",
+          "gallery": [
+            "https://rixxcorp.co.in/soft/inv1.jpg",
+            "https://rixxcorp.co.in/soft/inv2.jpg",
+            "https://rixxcorp.co.in/soft/inv3.jpg"
+          ],
+          "price": "₹5,000 – ₹12,000",
+          "delivery": "5 Days",
+          "tags": ["Cloud", "Database", "Scalable"],
+          "features": [
+            "Barcode scanning",
+            "Low stock alerts",
+            "Supplier management",
+            "Export to Excel"
+          ],
+          "description": "Robust inventory tracking for wholesalers and manufacturers.",
+          "specs": {
+            "Technology": "Web-based (MERN Stack)",
+            "Database": "MongoDB",
+            "Users": "Unlimited"
+          },
+          "demo_url": "https://inventory.rixxcorp.co.in",
+          "order_page": "/order?product=SOFT002"
+        },
+        {
+          "id": "SOFT003",
+          "category": "software",
+          "name": "Hospital Management CRM",
+          "subtitle": "Patient and doctor management",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/hms.png",
+          "video": "https://youtu.be/dummy_hms",
+          "gallery": [
+            "https://rixxcorp.co.in/soft/hms1.jpg",
+            "https://rixxcorp.co.in/soft/hms2.jpg",
+            "https://rixxcorp.co.in/soft/hms3.jpg"
+          ],
+          "price": "₹15,000 – ₹40,000",
+          "delivery": "10–20 Days",
+          "tags": ["Enterprise", "Secure", "Medical"],
+          "features": [
+            "Patient history",
+            "Appointment scheduling",
+            "Billing & Insurance",
+            "Lab reports"
+          ],
+          "description": "Comprehensive software for clinics and nursing homes to manage operations.",
+          "specs": {
+            "Technology": "Java / PHP",
+            "Compliance": "Data Privacy Standards",
+            "Deployment": "Local Server or Cloud"
+          },
+          "demo_url": "https://hms.rixxcorp.co.in",
+          "order_page": "/order?product=SOFT003"
+        }
+      ]
+    },
+    {
+      "service": "Social Media Management",
+      "description": "Manage social media apps tailored for business workflows.",
+      "examples": [
+        {
+          "id": "SMM001",
+          "category": "smm",
+          "name": "Creative Post Design",
+          "subtitle": "Single graphical post",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/post.png",
+          "video": "https://youtu.be/dummy_post",
+          "gallery": [
+            "https://rixxcorp.co.in/smm/post1.jpg",
+            "https://rixxcorp.co.in/smm/post2.jpg",
+            "https://rixxcorp.co.in/smm/post3.jpg"
+          ],
+          "price": "₹59 – ₹199",
+          "delivery": "24 Hours",
+          "tags": ["Graphic", "Viral", "Instagram"],
+          "features": [
+            "HD Resolution",
+            "Brand colors",
+            "Caption Included",
+            "1 Revision"
+          ],
+          "description": "Professionally designed social media creatives for festivals or offers.",
+          "specs": {
+            "Format": "JPG/PNG",
+            "Size": "1080x1080 (Square) or 1080x1920 (Story)",
+            "Source File": "No"
+          },
+          "demo_url": "https://instagram.com/rixxcorp_designs",
+          "order_page": "/order?product=SMM001"
+        },
+        {
+          "id": "SMM002",
+          "category": "smm",
+          "name": "Weekly Starter Pack",
+          "subtitle": "Active presence maintenance",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/weekly.png",
+          "video": "https://youtu.be/dummy_weekly",
+          "gallery": [
+            "https://rixxcorp.co.in/smm/week1.jpg",
+            "https://rixxcorp.co.in/smm/week2.jpg",
+            "https://rixxcorp.co.in/smm/week3.jpg"
+          ],
+          "price": "₹1,999 – ₹3,500",
+          "delivery": "Weekly",
+          "tags": ["Management", "Growth", "Consistent"],
+          "features": [
+            "3 Posts per week",
+            "1 Reel/Short video",
+            "Hashtag research",
+            "Basic community engagement"
+          ],
+          "description": "Keep your social pages active with consistent, high-quality content.",
+          "specs": {
+            "Platforms": "Instagram & Facebook",
+            "Reporting": "Weekly Stats",
+            "Duration": "7 Days"
+          },
+          "demo_url": "https://instagram.com/rixxcorp_client_demo",
+          "order_page": "/order?product=SMM002"
+        },
+        {
+          "id": "SMM003",
+          "category": "smm",
+          "name": "Monthly Brand Manager",
+          "subtitle": "Full account handling",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/monthly.png",
+          "video": "https://youtu.be/dummy_monthly",
+          "gallery": [
+            "https://rixxcorp.co.in/smm/month1.jpg",
+            "https://rixxcorp.co.in/smm/month2.jpg",
+            "https://rixxcorp.co.in/smm/month3.jpg"
+          ],
+          "price": "₹8,000 – ₹15,000",
+          "delivery": "Monthly",
+          "tags": ["Premium", "Strategy", "Ads"],
+          "features": [
+            "Daily posting schedule",
+            "4 Reels/Videos",
+            "Ad campaign setup",
+            "Comment moderation"
+          ],
+          "description": "Complete social media outsourcing. We handle everything from design to posting.",
+          "specs": {
+            "Platforms": "Insta, FB, LinkedIn, Twitter",
+            "Reporting": "Detailed Monthly Analytics",
+            "Strategy Call": "Yes"
+          },
+          "demo_url": "https://rixxcorp.co.in/portfolio/smm",
+          "order_page": "/order?product=SMM003"
+        }
+      ]
+    },
+    {
+      "service": "Bots, AI Tools & Automation",
+      "description": "Custom AI apps, bot assistants, and workflow automation.",
+      "examples": [
+        {
+          "id": "BOT001",
+          "category": "ai",
+          "name": "WhatsApp Auto-Reply",
+          "subtitle": "Basic business response bot",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/wabot.png",
+          "video": "https://youtu.be/dummy_wabot",
+          "gallery": [
+            "https://rixxcorp.co.in/ai/wa1.jpg",
+            "https://rixxcorp.co.in/ai/wa2.jpg",
+            "https://rixxcorp.co.in/ai/wa3.jpg"
+          ],
+          "price": "₹49 – ₹299",
+          "delivery": "Instant Setup",
+          "tags": ["WhatsApp", "Utility", "Automation"],
+          "features": [
+            "Welcome message",
+            "Menu navigation",
+            "FAQ answers",
+            "Works 24/7"
+          ],
+          "description": "Simple rule-based bot to handle common customer queries on WhatsApp.",
+          "specs": {
+            "Platform": "WhatsApp Business API / App",
+            "Logic": "Keyword based",
+            "Maintenance": "Low"
+          },
+          "demo_url": "https://wa.me/9100000000",
+          "order_page": "/order?product=BOT001"
+        },
+        {
+          "id": "BOT002",
+          "category": "ai",
+          "name": "Data Scraping Tool",
+          "subtitle": "Extract data from web",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/scraper.png",
+          "video": "https://youtu.be/dummy_scraper",
+          "gallery": [
+            "https://rixxcorp.co.in/ai/scr1.jpg",
+            "https://rixxcorp.co.in/ai/scr2.jpg",
+            "https://rixxcorp.co.in/ai/scr3.jpg"
+          ],
+          "price": "₹2,500 – ₹5,000",
+          "delivery": "3–5 Days",
+          "tags": ["Python", "Data", "Leads"],
+          "features": [
+            "Targeted extraction",
+            "Excel/CSV export",
+            "Proxy support",
+            "Scheduled running"
+          ],
+          "description": "Automated script to gather public data for lead generation or research.",
+          "specs": {
+            "Technology": "Python (Selenium/BeautifulSoup)",
+            "Output": "CSV, Excel, JSON",
+            "Rate Limit": "Safe mode included"
+          },
+          "demo_url": "https://rixxcorp.co.in/services/scraping",
+          "order_page": "/order?product=BOT002"
+        },
+        {
+          "id": "BOT003",
+          "category": "ai",
+          "name": "Custom ChatGPT Assistant",
+          "subtitle": "AI trained on your data",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/gpt.png",
+          "video": "https://youtu.be/dummy_gpt",
+          "gallery": [
+            "https://rixxcorp.co.in/ai/gpt1.jpg",
+            "https://rixxcorp.co.in/ai/gpt2.jpg",
+            "https://rixxcorp.co.in/ai/gpt3.jpg"
+          ],
+          "price": "₹5,000 – ₹10,000",
+          "delivery": "7 Days",
+          "tags": ["AI", "LLM", "Smart"],
+          "features": [
+            "Knowledge base integration",
+            "Natural language answers",
+            "Embed on website",
+            "Context aware"
+          ],
+          "description": "An intelligent chatbot trained on your company's PDFs and website data.",
+          "specs": {
+            "Model": "OpenAI GPT-4 / 3.5",
+            "Integration": "API Key Required",
+            "Interface": "Chat Bubble"
+          },
+          "demo_url": "https://ai.rixxcorp.co.in",
+          "order_page": "/order?product=BOT003"
+        }
+      ]
+    },
+    {
+      "service": "Brand Identity",
+      "description": "Manage Logos, Visiting cards, posters, etc for business workflows.",
+      "examples": [
+        {
+          "id": "BRAND001",
+          "category": "brand",
+          "name": "Logo Design Basic",
+          "subtitle": "Start your brand journey",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/logo.png",
+          "video": "https://youtu.be/dummy_logo",
+          "gallery": [
+            "https://rixxcorp.co.in/brand/logo1.jpg",
+            "https://rixxcorp.co.in/brand/logo2.jpg",
+            "https://rixxcorp.co.in/brand/logo3.jpg"
+          ],
+          "price": "₹29 – ₹999",
+          "delivery": "2 Days",
+          "tags": ["Design", "Vector", "Identity"],
+          "features": [
+            "2 Concepts",
+            "High resolution png",
+            "Transparent background",
+            "Commercial use"
+          ],
+          "description": "Professional logo design to give your business a face.",
+          "specs": {
+            "Files": "PNG, JPG",
+            "Vector": "Extra cost",
+            "Revisions": "2"
+          },
+          "demo_url": "https://rixxcorp.co.in/portfolio/logos",
+          "order_page": "/order?product=BRAND001"
+        },
+        {
+          "id": "BRAND002",
+          "category": "brand",
+          "name": "Visiting Card & Letterhead",
+          "subtitle": "Corporate stationery kit",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/stationery.png",
+          "video": "https://youtu.be/dummy_stat",
+          "gallery": [
+            "https://rixxcorp.co.in/brand/stat1.jpg",
+            "https://rixxcorp.co.in/brand/stat2.jpg",
+            "https://rixxcorp.co.in/brand/stat3.jpg"
+          ],
+          "price": "₹499 – ₹1,200",
+          "delivery": "2 Days",
+          "tags": ["Print", "Professional", "Office"],
+          "features": [
+            "Double sided card",
+            "Print-ready CMYK files",
+            "Word document letterhead",
+            "QR code integration"
+          ],
+          "description": "Essential stationery designs to make your business look professional.",
+          "specs": {
+            "Files": "PDF (Print Ready), AI",
+            "Bleed": "Included",
+            "Mockup": "Included"
+          },
+          "demo_url": "https://rixxcorp.co.in/portfolio/stationery",
+          "order_page": "/order?product=BRAND002"
+        },
+        {
+          "id": "BRAND003",
+          "category": "brand",
+          "name": "Complete Brand Kit",
+          "subtitle": "Total visual identity",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/kit.png",
+          "video": "https://youtu.be/dummy_kit",
+          "gallery": [
+            "https://rixxcorp.co.in/brand/kit1.jpg",
+            "https://rixxcorp.co.in/brand/kit2.jpg",
+            "https://rixxcorp.co.in/brand/kit3.jpg"
+          ],
+          "price": "₹3,000 – ₹7,500",
+          "delivery": "7 Days",
+          "tags": ["Premium", "Full Package", "Guidelines"],
+          "features": [
+            "Logo (All formats)",
+            "Brand guidelines book",
+            "Social media kit",
+            "Stationery design"
+          ],
+          "description": "Comprehensive branding package establishing your color palette, typography, and voice.",
+          "specs": {
+            "Files": "Source files (AI, PSD, EPS)",
+            "Guide": "PDF Booklet",
+            "Ownership": "Full Copyright"
+          },
+          "demo_url": "https://rixxcorp.co.in/portfolio/branding",
+          "order_page": "/order?product=BRAND003"
+        }
+      ]
+    },
+    {
+      "service": "Video Editing",
+      "description": "Get visuals and quality loaded video content.",
+      "examples": [
+        {
+          "id": "VID001",
+          "category": "video",
+          "name": "Instagram Reel Edit",
+          "subtitle": "Short form viral content",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/reel.png",
+          "video": "https://youtu.be/dummy_reel",
+          "gallery": [
+            "https://rixxcorp.co.in/vid/reel1.jpg",
+            "https://rixxcorp.co.in/vid/reel2.jpg",
+            "https://rixxcorp.co.in/vid/reel3.jpg"
+          ],
+          "price": "₹99 – ₹499",
+          "delivery": "24 Hours",
+          "tags": ["Vertical", "Trendy", "Shorts"],
+          "features": [
+            "Subtitles/Captions",
+            "Trendy transitions",
+            "Color correction",
+            "Background music sync"
+          ],
+          "description": "Engaging edits for Reels, TikToks, or YouTube Shorts designed to grab attention.",
+          "specs": {
+            "Length": "Up to 60 sec",
+            "Format": "9:16 Vertical",
+            "Resolution": "1080p/4K"
+          },
+          "demo_url": "https://instagram.com/rixxcorp_reels",
+          "order_page": "/order?product=VID001"
+        },
+        {
+          "id": "VID002",
+          "category": "video",
+          "name": "YouTube Video Edit",
+          "subtitle": "Long form content editing",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/yt.png",
+          "video": "https://youtu.be/dummy_yt",
+          "gallery": [
+            "https://rixxcorp.co.in/vid/yt1.jpg",
+            "https://rixxcorp.co.in/vid/yt2.jpg",
+            "https://rixxcorp.co.in/vid/yt3.jpg"
+          ],
+          "price": "₹1,500 – ₹4,000",
+          "delivery": "2–3 Days",
+          "tags": ["Vlog", "Gaming", "Tutorial"],
+          "features": [
+            "Jump cuts & flow",
+            "B-roll insertion",
+            "Sound design",
+            "Intro/Outro addition"
+          ],
+          "description": "Professional editing for YouTube vlogs, tutorials, or gaming videos.",
+          "specs": {
+            "Length": "Up to 15 mins",
+            "Format": "16:9 Landscape",
+            "Revisions": "2"
+          },
+          "demo_url": "https://youtube.com/rixxcorp_edits",
+          "order_page": "/order?product=VID002"
+        },
+        {
+          "id": "VID003",
+          "category": "video",
+          "name": "Corporate Promo / Ad",
+          "subtitle": "High-end commercial edit",
+          "thumbnail": "https://rixxcorp.co.in/thumbnails/promo.png",
+          "video": "https://youtu.be/dummy_promo",
+          "gallery": [
+            "https://rixxcorp.co.in/vid/promo1.jpg",
+            "https://rixxcorp.co.in/vid/promo2.jpg",
+            "https://rixxcorp.co.in/vid/promo3.jpg"
+          ],
+          "price": "₹5,000 – ₹15,000",
+          "delivery": "5–7 Days",
+          "tags": ["Commercial", "Motion Graphics", "Cinematic"],
+          "features": [
+            "Advanced motion graphics",
+            "Licensed music",
+            "Cinematic color grading",
+            "Script assistance"
+          ],
+          "description": "Premium promotional video for product launches or brand awareness.",
+          "specs": {
+            "Length": "30 sec – 2 mins",
+            "Quality": "4K Export",
+            "Assets": "Stock footage provided"
+          },
+          "demo_url": "https://rixxcorp.co.in/portfolio/videos",
+          "order_page": "/order?product=VID003"
         }
       ]
     }

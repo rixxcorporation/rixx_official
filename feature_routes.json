@@ -1,8 +1,14 @@
 {
   "24/7 premium support": "support_page",
-  "Community Access": "contact_page",
+  "Community support": "support_page",
   "AI Universe Access": "universe_page",
   "Unlimited projects": "schedule_call",
   "Explore Beta": "explore_page",
+  "Custom Website with Hosting" : "schedule_call",
+  "App Design with Production" : "schedule_call",
+  "Fully custom Website with Hosting" : "schedule_call",
+  "App Design" : "schedule_call",
+  "Up to 5 pages website with Hosting" : "schedule_call",
+  "1 Active Website with rixx domain" : "schedule_call",
   "Team Access": "team_page"
 }
